@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nadildesilva5@gmail.com
 
 ### My Status ###
-<img align='center' src="https://github-readme-stats.vercel.app/api?BaranaNadil=anuraghazra&show_icons=true&theme=transparent" />
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent" />
 
