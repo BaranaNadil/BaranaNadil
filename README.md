@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: nadildesilva5@gmail.com
 
-https://github.com/anuraghazra/github-readme-stats.git
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BaranaNadil=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### My Status ###
+<img align='center' src="https://github-readme-stats.vercel.app/api?BaranaNadil=anuraghazra&show_icons=true&theme=transparent" />
 -->
