@@ -9,12 +9,15 @@
 - 📫 How to reach me: nadildesilva5@gmail.com
 
 ### My Status ###
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent" />         <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact" />
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent" />         
 
 
-
+---
 
 ### 🧰 Languages and Tools
+
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact" />
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
