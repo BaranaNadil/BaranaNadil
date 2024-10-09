@@ -42,6 +42,11 @@
 <br />
 
 
+---
+
+### 🌱 Achievements
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil" alt="BaranaNadil" /></a> </p>
 
 
