@@ -74,7 +74,7 @@
 
 Counting of visitors to this page in this section started from May 1, 2022
 
-[URL=http://s01.flagcounter.com/more/Gtc][IMG]https://s01.flagcounter.com/map/Gtc/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/[/IMG][/URL]
+<a href="http://s01.flagcounter.com/more/Gtc"><img src="https://s01.flagcounter.com/map/Gtc/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 
