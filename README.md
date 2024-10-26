@@ -78,7 +78,7 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BaranaNadil/BaranaNadil&type=Date)](https://star-history.com/#BaranaNadil/BaranaNadilx&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=BaranaNadil/BaranaNadil&type=Date)](https://star-history.com/#BaranaNadil/BaranaNadil&Date)
 
 ---
 
