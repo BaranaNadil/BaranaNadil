@@ -70,7 +70,7 @@
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/BaranaNadil/count.svg">
 
 Counting of visitors to this page in this section started from May 1, 2022
 
