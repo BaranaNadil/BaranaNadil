@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil&theme=dracula&no-frame=true&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil&theme=tokyonight&no-frame=true&margin-w=15" width="100%" />
 </div>
 
 <div align="center">
