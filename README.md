@@ -53,12 +53,12 @@
 </p>
 <div align="center">
   <a href="https://github.com/BaranaNadil">
-    <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=7" width="100%" alt="Barana Nadil GitHub Trophies" />
+    <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=7" width="70%" alt="Barana Nadil GitHub Trophies" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaranaNadil&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaranaNadil&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
