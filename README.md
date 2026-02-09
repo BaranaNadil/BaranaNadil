@@ -55,7 +55,7 @@
 ## 🏆 Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" />
 </p>
 
 ---
