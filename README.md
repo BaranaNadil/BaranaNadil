@@ -50,7 +50,9 @@
 </div>
 
 <div align="center">
-  <img src="github-profile-trophy2-lac.vercel.app/?username=BaranaNadil&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/BaranaNadil">
+    <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=7" width="100%" alt="Barana Nadil GitHub Trophies" />
+  </a>
 </div>
 
 <div align="center">
