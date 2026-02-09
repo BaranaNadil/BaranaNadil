@@ -53,7 +53,7 @@
 </p>
 <div align="center">
   <a href="https://github.com/BaranaNadil">
-    <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=10-1" width="100%" alt="Barana Nadil GitHub Trophies" />
+    <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=9" width="100%" alt="Barana Nadil GitHub Trophies" />
   </a>
 </div>
 
