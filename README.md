@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BaranaNadil&show_icons=true&theme=light" />
 </picture>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
 
 ---
 
