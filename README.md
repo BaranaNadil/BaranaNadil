@@ -1,101 +1,89 @@
-### Software Engineer | IoT & Robotics Enthusiast | Java Developer  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Barana%20Nadil&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <img src="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent" />
-</p>
+  ### ⚡ Software Engineer | IoT & Robotics Architect | Java Specialist
 
-<p align="center">
-  <picture>
-    <source srcset="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&show_icons=true&theme=light" media="(prefers-color-scheme: light)" />
-    <img src="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&show_icons=true" />
-  </picture>
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+the+Future+with+IoT;Mastering+the+Java+Ecosystem;Designing+Autonomous+Robotics;Server-side+Systems+Expert)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 🚀 About Me
+## 🛰️ System Overview
 
-- 🔭 Currently working on **Java, IoT, Robotics & Server-side systems**
-- 🌱 Learning at **Java Institute of Advanced Technology**
-- 🤖 Interested in **Embedded Systems, ESP32, Arduino, CAN Bus, AI**
-- 💬 Ask me about **Java, Web Apps, IoT, Linux Servers**
-- 📫 Reach me at **nadildesilva5@gmail.com**
-
----
-
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact" />
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🚀 Core Missions</h3>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Java, IoT, Robotics & Server-side Architectures</li>
+        <li>🌱 <b>Education:</b> Java Institute of Advanced Technology</li>
+        <li>🤖 <b>Interests:</b> Embedded Systems (ESP32/Arduino), CAN Bus & AI Integration</li>
+      </ul>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>📡 Communication Channels</h3>
+      <ul>
+        <li>💬 <b>Consult Me:</b> Web Apps, IoT Infrastructure, Linux Servers</li>
+        <li>📫 <b>Signal:</b> <a href="mailto:nadildesilva5@gmail.com">nadildesilva5@gmail.com</a></li>
+        <li>🌍 <b>Location:</b> Sri Lanka</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack Matrix
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,arduino,php,mysql,git,html,css,js,react,bootstrap,docker,linux,bash&perline=13" />
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 📊 Neural Network Analytics
 
-<p align="left">
-  <a href="https://linkedin.com/in/nadil-de-silva" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<div align="center">
+  <img src="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff" height="170px" />
+  <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff" height="170px" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil&theme=dracula&no-frame=true&margin-w=15" width="100%" />
+</div>
+
+---
+
+## ⛓️ Terminal Connections
+
+<div align="left">
+  <a href="https://linkedin.com/in/nadil-de-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/nadil_de_silva" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
+  <a href="https://www.hackerrank.com/nadil_de_silva">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Activity Pulse
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-## 👀 Profile Visitors
-
-<p align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/BaranaNadil/count.svg" />
-</p>
+  <p><i>Profile Scans Detected</i></p>
+</div>
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=BaranaNadil/BaranaNadil&type=Date)](https://star-history.com/#BaranaNadil/BaranaNadil&Date)
-
----
-
-### Thanks for visiting 🙌  
-⭐ Don’t forget to star repositories you like!
-
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=BaranaNadil/BaranaNadil&type=Date" width="60%" />
+  
+  <br />
+  <b>End of Transmission. Keep Exploring. 🚀</b>
+</div>
 
  
 
