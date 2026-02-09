@@ -55,8 +55,10 @@
 
 ## 🏆 Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaranaNadil&theme=flat&no-frame=true&row=1" />
+<p align="center">
+  <img src="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil" />
+  <br/>
+  <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact" />
 </p>
 
 ---
