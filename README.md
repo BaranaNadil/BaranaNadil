@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=BaranaNadil&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="http://trophy.ryglcloud.net/?username=BaranaNadil&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
