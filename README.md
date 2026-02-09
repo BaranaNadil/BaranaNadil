@@ -99,4 +99,8 @@
 </div>
 
  Designed with 💙 by Barana Nadil
-
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-00d2ff?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License: CC BY-NC 4.0" />
+  </a>
+</div>
