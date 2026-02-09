@@ -48,7 +48,9 @@
   
   <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact&theme=tokyonight&title_color=00d2ff&text_color=a9b1d6&border_radius=10" height="170px" />
 </div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header&text=My%20GitHub%20Stats&fontSize=50&animation=fadeIn" />
+</p>
 <div align="center">
   <a href="https://github.com/BaranaNadil">
     <img src="https://github-profile-trophy-master-five.vercel.app/?username=BaranaNadil&theme=cyber_cyan&no-frame=true&margin-w=15&column=7" width="100%" alt="Barana Nadil GitHub Trophies" />
