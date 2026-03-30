@@ -10,26 +10,28 @@
 
 ## 🛰️ System Overview
 
-<table align="center">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🚀 Core Missions</h3>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Java, IoT, Robotics & Server-side Architectures</li>
-        <li>🌱 <b>Education:</b> Java Institute of Advanced Technology</li>
-        <li>🤖 <b>Interests:</b> Embedded Systems (ESP32/Arduino), CAN Bus & AI Integration</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>📡 Communication Channels</h3>
-      <ul>
-        <li>💬 <b>Consult Me:</b> Web Apps, IoT Infrastructure, Linux Servers</li>
-        <li>📫 <b>Signal:</b> <a href="mailto:nadildesilva5@gmail.com">nadildesilva5@gmail.com</a></li>
-        <li>🌍 <b>Location:</b> Sri Lanka</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🚀 Core Missions</h3>
+    <ul>
+      <li>🔭 <b>Current Focus:</b> Java, IoT, Robotics & Server-side Architectures</li>
+      <li>🌱 <b>Education:</b> Java Institute of Advanced Technology</li>
+      <li>🤖 <b>Interests:</b> Embedded Systems (ESP32/Arduino), CAN Bus & AI Integration</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <h3>📡 Communication Channels</h3>
+    <ul>
+      <li>💬 <b>Consult Me:</b> Web Apps, IoT Infrastructure, Linux Servers</li>
+      <li>📫 <b>Signal:</b> <a href="mailto:nadildesilva5@gmail.com">nadildesilva5@gmail.com</a></li>
+      <li>🌍 <b>Location:</b> Sri Lanka</li>
+    </ul>
+  </div>
+
+</div>
+
 
 ---
 
