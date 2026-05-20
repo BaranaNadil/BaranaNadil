@@ -46,9 +46,9 @@
 ## 📊 Neural Network Analytics
 
 <div align="center">
-  <img src="https://git-hub-readme-status.vercel.app/api?count_private=true&show_icons=true&theme=tokyonight&title_color=00d2ff&text_color=a9b1d6&icon_color=00d2ff&border_radius=10" height="170px" />
+  <img src="https://git-hub-readme-status.vercel.app/api?username=BaranaNadil&count_private=true&show_icons=true&theme=tokyonight&title_color=00d2ff&text_color=a9b1d6&icon_color=00d2ff&border_radius=10" height="170px" />
   
-  <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?count_private=true&layout=compact&theme=tokyonight&title_color=00d2ff&text_color=a9b1d6&border_radius=10" height="170px" />
+  <img src="https://git-hub-readme-status.vercel.app/api/top-langs/?username=BaranaNadil&count_private=true&layout=compact&theme=tokyonight&title_color=00d2ff&text_color=a9b1d6&border_radius=10" height="170px" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header&text=My%20GitHub%20Stats&fontSize=50&animation=fadeIn" />
