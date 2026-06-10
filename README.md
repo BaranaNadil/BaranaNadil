@@ -104,6 +104,7 @@
    <p>Designed with 💙 by Barana Nadil</p>
 </div>
 <div align="center">
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BaranaNadil&repo=Barananadil&countColorcountColor&countColor=%237B1E7B"/>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-00d2ff?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License: CC BY-NC 4.0" />
   </a>
